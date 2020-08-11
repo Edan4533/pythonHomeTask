@@ -1,0 +1,5 @@
+run:
+pip install flask_sqlalchemy
+pip install json
+pip install quart
+pip install flickr_api
